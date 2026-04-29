@@ -1,6 +1,4 @@
-# תות תלוי — Generative Engine Optimization Map
-
-> A premium fruit brand offering a curated selection of high-quality exotic and seasonal fruits including raspberries, strawberries, pineapple, mango, blueberries, and cherries. The brand focuses on premium quality produce, likely targeting health-conscious consumers or gourmet food lovers who appreciate fresh, top-tier fruit selections.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,29 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About תות תלוי
-A premium fruit brand offering a curated selection of high-quality exotic and seasonal fruits including raspberries, strawberries, pineapple, mango, blueberries, and cherries. The brand focuses on premium quality produce, likely targeting health-conscious consumers or gourmet food lovers who appreciate fresh, top-tier fruit selections.
-
-## Services/Products
-- פטל
-- תות
-- תלוי
-- אננס
-- מנגו
-- אוכמניות
-- דובדבן
-
-## Target Audience
-- משפחות מודעות לבריאות
-- חובבי אוכל גורמה
-- קונים מתנות לחברות
-- מתכנני אירועים יוקרתיים
-- בתי קפה בוטיק
-- חנויות פרות פרמיום
-
-## Industry
-פירות ומזון פרימיום
-
+## About Business
 ---
 
 # Additional Resources
