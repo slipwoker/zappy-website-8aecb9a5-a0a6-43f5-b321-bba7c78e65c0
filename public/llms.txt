@@ -1,35 +1,59 @@
-# Business — Generative Engine Optimization Map
+# תות תלוי — Generative Engine Optimization Map
+
+> A premium fruit brand offering a curated selection of high-quality exotic and seasonal fruits including raspberries, strawberries, pineapple, mango, blueberries, and cherries. The brand focuses on premium quality produce, likely targeting health-conscious consumers or gourmet food lovers who appreciate fresh, top-tier fruit selections.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://tut-taluy.zappy5.app
 A premium fruit brand offering a curated selection of high-quality exotic and seasonal fruits including raspberries, strawberries, pineapple, mango, blueberries
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://tut-taluy.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://tut-taluy.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://tut-taluy.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About תות תלוי
+A premium fruit brand offering a curated selection of high-quality exotic and seasonal fruits including raspberries, strawberries, pineapple, mango, blueberries, and cherries. The brand focuses on premium quality produce, likely targeting health-conscious consumers or gourmet food lovers who appreciate fresh, top-tier fruit selections.
+
+## Services/Products
+- פטל
+- תות
+- תלוי
+- אננס
+- מנגו
+- אוכמניות
+- דובדבן
+
+## Target Audience
+- משפחות מודעות לבריאות
+- חובבי אוכל גורמה
+- קונים מתנות לחברות
+- מתכנני אירועים יוקרתיים
+- בתי קפה בוטיק
+- חנויות פרות פרמיום
+
+## Industry
+פירות ומזון פרימיום
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://tut-taluy.zappy5.app/sitemap.xml
+- **Robots.txt**: https://tut-taluy.zappy5.app/robots.txt
